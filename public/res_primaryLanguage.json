@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "Hello my name is Jacob Gregor and I’m a student currently learning Full Stack Software Development. I have a goal to remove the student and write Jacob Gregor, Full Stack Software Engineer in my title by the end of this year. I took the road less traveled and career transitioned to follow my passion of writing high quality modern-based software and frameworks for consumers looking to modernize their data and workflow. My background isn’t in the tech sector, but what I do have is a thorough understanding of what it takes to build a strategy as a team and the discipline required from an individual standpoint to get it done. Im a firm believer that lofty goal finding your motivation to stick to those goals and having the discipline to stay motivated when tested are critical to succeeding in all endeavors one pursues. Everyday I get one step closer to achieving my goal.",
+      "description": "Hello my name is Jacob Gregor and I’m a student currently learning Full Stack Software Development. I have a goal to remove the student and write Jacob Gregor, Full Stack Software Engineer in my title by the end of this year. I took the road less traveled and career transitioned to follow my passion of writing high quality modern-based software and frameworks for consumers looking to modernize their data and workflow. My background isn’t in the tech sector, but what I do have is a thorough understanding of what it takes to build a strategy as a team and the discipline required from an individual standpoint to get it done. Im a firm believer that setting lofty goals, finding your motivation to stick to those goals and having the discipline to stay motivated when tested are critical to succeeding in all endeavors one pursues. Everyday I get one step closer to achieving my goal.",
 
       "section_name": {
         "about": "About me",
@@ -12,12 +12,12 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Under Construction -> (Final Project)",
+        "startDate": "2021",
+        "description": "This is where I will highlight my final project",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/animal-shelter/construction.png",
+          "images/portfolio/animal-shelter/construction.png"
         ],
         "url": "",
         "technologies": [
@@ -36,19 +36,15 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Bargains of the Lost",
+        "startDate": "2021",
+        "description": "Group Project representing our Final Project of Code Fellows 201 -> Fundamentals of Javascript. This project Utalizes basic fundamental js functionalitity including local storage! Check it out at the link provided.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/Bargains of the lost.png",
           "images/portfolio/photography/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "ravencl-w.github.io/ravenclaw/",
         "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
@@ -56,12 +52,11 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Salmon Cookies",
+        "startDate": "2021",
+        "description": "Introductory Class project highlighting key featiures such as Listing and table functionality.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/adventure/salmon cookies.png"
         ],
         "url": "https://github.com",
         "technologies": [
