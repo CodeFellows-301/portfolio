@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Jacob Gregor",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Student: Full Stack Software Engineer - Code Fellows Seattle, WA" ],
       "social": [
         {
           "name": "github",
@@ -9,12 +9,17 @@
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
+          "name": "Linkedin",
+          "url": "https://www.linkedin.com/in/jacob-l-gregor/",
+          "class": "fab fa-linkedin"
+        },
+        {
+          "name": "Instagram",
+          "url": "https://www.instagram.com/_jacobgregor/",
           "class": "fab fa-instagram"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "Headshot.jpeg"
     },
     "skills": {
       "icons": [

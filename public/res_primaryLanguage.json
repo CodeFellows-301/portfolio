@@ -1,7 +1,8 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Jacob Gregor. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "Hello my name is Jacob Gregor and I’m a student currently learning Full Stack Software Development. I have a goal to remove the student and write Jacob Gregor, Full Stack Software Engineer in my title by the end of this year. I took the road less traveled and career transitioned to follow my passion of writing high quality modern-based software and frameworks for consumers looking to modernize their data and workflow. My background isn’t in the tech sector, but what I do have is a thorough understanding of what it takes to build a strategy as a team and the discipline required from an individual standpoint to get it done. Im a firm believer that lofty goal finding your motivation to stick to those goals and having the discipline to stay motivated when tested are critical to succeeding in all endeavors one pursues. Everyday I get one step closer to achieving my goal.",
+
       "section_name": {
         "about": "About me",
         "projects": "Projects",
