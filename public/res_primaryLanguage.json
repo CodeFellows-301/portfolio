@@ -77,37 +77,36 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Code Fellows Academy",
+        "title": "Student - Full Stack JavaScript Developer",
+        "years": "08.2021 - 12.2021",
         "mainTech": [
-          "Angular 8/9/10"
+          "Full-Stack JavaScript"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
           "JavaScript",
+          "React",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Mongo",
+          "SQL",
+          "HTML-5",
+          "CSS-3"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Brew Dr. Kombucha",
+        "title": "Area Sales Manager",
+        "years": "11.2018 - 08.2021",
         "mainTech": [
-          "Angular 7/8"
+          
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "SAP.CONCUR",
+          "VIP-IDIG",
+          "KARMA",
+          "Microsoft Excel",
+          "Slack",
+          "Microsoft Office"
         ]
       }
     ]
